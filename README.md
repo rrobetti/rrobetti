@@ -11,6 +11,7 @@
 ## My publications
 | Name | Contribution Type | Date |
 |---|---|---|
+| [Open J Proxy (OJP): Rethinking JDBC with Smart Connection Management for Quarkus](https://www.youtube.com/watch?v=XawiVocjGTo&t=4040s) | Podcast/Video | Apr 23, 2026 |
 | [System.nanoTime() Is Not Wall Clock](https://rogeriorobetti.medium.com/system-nanotime-is-not-wall-clock-318e4021dd52) | Blog post | Apr 18, 2026 |
 | [HotSpot Is Not “Java”](https://rogeriorobetti.medium.com/hotspot-is-not-java-024da1e9ffca) | Blog post | Apr 11, 2026 |
 | [Why Java Is the Best Language for AI-Assisted Coding](https://medium.com/@rogeriorobetti/why-java-is-the-best-language-for-ai-assisted-coding-e4a06dda6d8e) | Blog post | Mar 21, 2026 |
