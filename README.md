@@ -11,6 +11,7 @@
 ## My publications
 | Name | Contribution Type | Date |
 |---|---|---|
+| [Transparent Statement Caching in Modern JDBC Drivers](https://rogeriorobetti.medium.com/transparent-statement-caching-in-modern-jdbc-drivers-ca1da43c509a) | Blog post | May 12, 2026 |
 | [Open J Proxy (OJP): Rethinking JDBC with Smart Connection Management for Quarkus](https://www.youtube.com/watch?v=XawiVocjGTo&t=4040s) | Podcast/Video | Apr 23, 2026 |
 | [System.nanoTime() Is Not Wall Clock](https://rogeriorobetti.medium.com/system-nanotime-is-not-wall-clock-318e4021dd52) | Blog post | Apr 18, 2026 |
 | [HotSpot Is Not “Java”](https://rogeriorobetti.medium.com/hotspot-is-not-java-024da1e9ffca) | Blog post | Apr 11, 2026 |
