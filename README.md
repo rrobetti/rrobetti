@@ -11,6 +11,7 @@
 ## My publications
 | Name | Contribution Type | Date |
 |---|---|---|
+| [Enums Are Not Better Constants](https://rogeriorobetti.medium.com/enums-are-not-better-constants-e4b2b619f806) | Blog post | Jun 1, 2026 |
 | [Java Rockstar Career: Senior Java Devs Must Think Beyond Code - #25](https://www.youtube.com/watch?v=VIhWNdCa--A&t=3386s) | Podcast/Video | May 15, 2026 |
 | [Transparent Statement Caching in Modern JDBC Drivers](https://rogeriorobetti.medium.com/transparent-statement-caching-in-modern-jdbc-drivers-ca1da43c509a) | Blog post | May 12, 2026 |
 | [Open J Proxy (OJP): Rethinking JDBC with Smart Connection Management for Quarkus](https://www.youtube.com/watch?v=XawiVocjGTo&t=4040s) | Podcast/Video | Apr 23, 2026 |
