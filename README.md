@@ -14,6 +14,7 @@
 ## My publications
 | Name | Contribution Type | Date |
 |---|---|---|
+| [Article about the integration challenges resolved on Atomikos 6.0.1 when integrating with Oracle UCP.](https://rogeriorobetti.medium.com/when-two-connection-pools-collide-atomikos-6-0-1-oracle-ucp-and-the-end-of-double-pooling-fce4cedb4760) | Blog post | Jun 11, 2026 |
 | [Enums Are Not Better Constants](https://rogeriorobetti.medium.com/enums-are-not-better-constants-e4b2b619f806) | Blog post | Jun 1, 2026 |
 | [Java Rockstar Career: Senior Java Devs Must Think Beyond Code - #25](https://www.youtube.com/watch?v=VIhWNdCa--A&t=3386s) | Podcast/Video | May 15, 2026 |
 | [Transparent Statement Caching in Modern JDBC Drivers](https://rogeriorobetti.medium.com/transparent-statement-caching-in-modern-jdbc-drivers-ca1da43c509a) | Blog post | May 12, 2026 |
