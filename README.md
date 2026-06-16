@@ -6,9 +6,10 @@
 - 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/rogerio-robetti/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a blue belt in BJJ and a little bit obsessed with getting better at it.
-- Other projects: 
+- Also creator of: 
     - [durable-flow](https://github.com/rrobetti/durable-flow). A lightweight, database-backed workflow engine for Java.
     - [stressar](https://github.com/rrobetti/stressar) Stress tool for JDBC based setups.
+    - [file-tx-bridge](https://github.com/rrobetti/file-tx-bridge) Library that coordinates file creation participating in XA transactional workflows.
 
 
 ## My publications
