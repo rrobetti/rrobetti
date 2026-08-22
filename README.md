@@ -15,7 +15,7 @@
 ## My publications
 | Name | Contribution Type | Date |
 |---|---|---|
-| [Article: Connection Management Under Pressure: An HTAP Benchmark of Open J Proxy, PgBouncer, and HikariCP]([https://rogeriorobetti.medium.com/introducing-stressar-a-stress-tool-built-for-the-jdbc-world-715b03a3ca41])(https://www.linkedin.com/pulse/connection-management-under-pressure-htap-benchmark-open-6kf4e/)) | Blog post | Aug 11, 2026 |
+| [Article: Connection Management Under Pressure: An HTAP Benchmark of Open J Proxy, PgBouncer, and HikariCP](https://www.linkedin.com/pulse/connection-management-under-pressure-htap-benchmark-open-6kf4e/) | Blog post | Aug 11, 2026 |
 | [Article: Introducing Stressar: A Stress Tool Built for the JDBC World](https://rogeriorobetti.medium.com/introducing-stressar-a-stress-tool-built-for-the-jdbc-world-715b03a3ca41) | Blog post | Aug 10, 2026 |
 | [Article: The Database Death Spiral](https://medium.com/@rogeriorobetti/the-database-death-spiral-70aaab5dc993) | Blog post | Jul 1, 2026 |
 \| [Article: When Two Connection Pools Collide: Atomikos 6.0.1, Oracle UCP, and the End of Double Pooling](https://rogeriorobetti.medium.com/when-two-connection-pools-collide-atomikos-6-0-1-oracle-ucp-and-the-end-of-double-pooling-fce4cedb4760) | Blog post | Jun 11, 2026 |
