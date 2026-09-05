@@ -15,6 +15,8 @@
 ## My publications
 | Name | Contribution Type | Date |
 |---|---|---|
+| [Article: Introducing J XA Tester](https://medium.com/@rogeriorobetti/introducing-j-xa-tester-9b85857c01d1) | Blog post | Sep 05, 2026 |
+| [Article: Meet J API Proxy](https://medium.com/@rogeriorobetti/meet-j-api-proxy-87159288437a) | Blog post | Sep 01, 2026 |
 | [Article: Connection Management Under Pressure: An HTAP Benchmark of Open J Proxy, PgBouncer, and HikariCP](https://www.linkedin.com/pulse/connection-management-under-pressure-htap-benchmark-open-6kf4e/) | Blog post | Aug 11, 2026 |
 | [Article: Introducing Stressar: A Stress Tool Built for the JDBC World](https://rogeriorobetti.medium.com/introducing-stressar-a-stress-tool-built-for-the-jdbc-world-715b03a3ca41) | Blog post | Aug 10, 2026 |
 | [Article: The Database Death Spiral](https://medium.com/@rogeriorobetti/the-database-death-spiral-70aaab5dc993) | Blog post | Jul 1, 2026 |
