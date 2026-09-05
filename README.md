@@ -6,7 +6,9 @@
 - 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/rogerio-robetti/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a blue belt in BJJ and a little bit obsessed with getting better at it.
-- Also creator of: 
+- Also creator of:
+    - [J XA Tester](https://github.com/rrobetti/j-xa-tester) Testkit for deterministic, phase-aware XA fault injection.
+    - [J API Proxy](https://github.com/rrobetti/j-api-proxy) A small, general-purpose filter chain to intercept operations across a JDBC or Jakarta JMS object graph — including XA resources.    
     - [durable-flow](https://github.com/rrobetti/durable-flow). A lightweight, database-backed workflow engine for Java.
     - [stressar](https://github.com/rrobetti/stressar) Stress tool for JDBC based setups.
     - [file-tx-bridge](https://github.com/rrobetti/file-tx-bridge) Library that coordinates file creation participating in XA transactional workflows.
