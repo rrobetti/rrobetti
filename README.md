@@ -17,13 +17,14 @@
 ## My publications
 | Name | Contribution Type | Date |
 |---|---|---|
-| [Article: Introducing J XA Tester](https://medium.com/@rogeriorobetti/introducing-j-xa-tester-9b85857c01d1) | Blog post | Sep 05, 2026 |
-| [Article: Meet J API Proxy](https://medium.com/@rogeriorobetti/meet-j-api-proxy-87159288437a) | Blog post | Sep 01, 2026 |
-| [Article: Connection Management Under Pressure: An HTAP Benchmark of Open J Proxy, PgBouncer, and HikariCP](https://www.linkedin.com/pulse/connection-management-under-pressure-htap-benchmark-open-6kf4e/) | Blog post | Aug 11, 2026 |
-| [Article: Introducing Stressar: A Stress Tool Built for the JDBC World](https://rogeriorobetti.medium.com/introducing-stressar-a-stress-tool-built-for-the-jdbc-world-715b03a3ca41) | Blog post | Aug 10, 2026 |
-| [Article: The Database Death Spiral](https://medium.com/@rogeriorobetti/the-database-death-spiral-70aaab5dc993) | Blog post | Jul 1, 2026 |
-| [Article: When Two Connection Pools Collide: Atomikos 6.0.1, Oracle UCP, and the End of Double Pooling](https://rogeriorobetti.medium.com/when-two-connection-pools-collide-atomikos-6-0-1-oracle-ucp-and-the-end-of-double-pooling-fce4cedb4760) | Blog post | Jun 11, 2026 |
-| [Article: Can GRASP Help Us Find Better Microservice Boundaries?](https://medium.com/@rogeriorobetti/can-grasp-help-us-find-better-microservice-boundaries-82756152aa59) | Blog post | Jun 6, 2026 |
+| [Your ETL Pipelines Are Quietly Killing Your Database (And How to Fix It)]([https://medium.com/@rogeriorobetti/introducing-j-xa-tester-9b85857c01d1](https://medium.com/@rogeriorobetti/your-etl-pipelines-are-quietly-killing-your-database-and-how-to-fix-it-ac7bf69445f2)) | Blog post | Sep 09, 2026 |
+| [Introducing J XA Tester](https://medium.com/@rogeriorobetti/introducing-j-xa-tester-9b85857c01d1) | Blog post | Sep 05, 2026 |
+| [Meet J API Proxy](https://medium.com/@rogeriorobetti/meet-j-api-proxy-87159288437a) | Blog post | Sep 01, 2026 |
+| [Connection Management Under Pressure: An HTAP Benchmark of Open J Proxy, PgBouncer, and HikariCP](https://www.linkedin.com/pulse/connection-management-under-pressure-htap-benchmark-open-6kf4e/) | Blog post | Aug 11, 2026 |
+| [Introducing Stressar: A Stress Tool Built for the JDBC World](https://rogeriorobetti.medium.com/introducing-stressar-a-stress-tool-built-for-the-jdbc-world-715b03a3ca41) | Blog post | Aug 10, 2026 |
+| [The Database Death Spiral](https://medium.com/@rogeriorobetti/the-database-death-spiral-70aaab5dc993) | Blog post | Jul 1, 2026 |
+| [When Two Connection Pools Collide: Atomikos 6.0.1, Oracle UCP, and the End of Double Pooling](https://rogeriorobetti.medium.com/when-two-connection-pools-collide-atomikos-6-0-1-oracle-ucp-and-the-end-of-double-pooling-fce4cedb4760) | Blog post | Jun 11, 2026 |
+| [Can GRASP Help Us Find Better Microservice Boundaries?](https://medium.com/@rogeriorobetti/can-grasp-help-us-find-better-microservice-boundaries-82756152aa59) | Blog post | Jun 6, 2026 |
 | [Enums Are Not Better Constants](https://rogeriorobetti.medium.com/enums-are-not-better-constants-e4b2b619f806) | Blog post | Jun 1, 2026 |
 | [Java Rockstar Career: Senior Java Devs Must Think Beyond Code - #25](https://www.youtube.com/watch?v=VIhWNdCa--A&t=3386s) | Podcast/Video | May 15, 2026 |
 | [Transparent Statement Caching in Modern JDBC Drivers](https://rogeriorobetti.medium.com/transparent-statement-caching-in-modern-jdbc-drivers-ca1da43c509a) | Blog post | May 12, 2026 |
