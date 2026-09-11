@@ -17,6 +17,8 @@
 ## My publications
 | Name | Contribution Type | Date |
 |---|---|---|
+| [The Phantom Connection Crisis: Securing Production From Local Desktop Tools](https://medium.com/@rogeriorobetti/the-phantom-connection-crisis-securing-production-from-local-desktop-tools-b28d2c1e16c8) | Blog post | Sep 11, 2026 |
+| [Breaking the 9 AM Database Curse: Safeguarding Production From Heavy Analytics](https://medium.com/@rogeriorobetti/breaking-the-9-am-database-curse-safeguarding-production-from-heavy-analytics-1c7135804092) | Blog post | Sep 10, 2026 |
 | [Your ETL Pipelines Are Quietly Killing Your Database \(And How to Fix It\)](https://medium.com/@rogeriorobetti/your-etl-pipelines-are-quietly-killing-your-database-and-how-to-fix-it-ac7bf69445f2) | Blog post | Sep 09, 2026 |
 | [Introducing J XA Tester](https://medium.com/@rogeriorobetti/introducing-j-xa-tester-9b85857c01d1) | Blog post | Sep 05, 2026 |
 | [Meet J API Proxy](https://medium.com/@rogeriorobetti/meet-j-api-proxy-87159288437a) | Blog post | Sep 01, 2026 |
